@@ -3,3 +3,5 @@ Gitの記録からだけファイルを削除したいとき、git rm --cached �
 git configとは設定を変更するコマンド
 --globalをつけるとPC全体の設定を変更することになる
 git config --global をつけると～/.gitconfigと~/.config/git/configファイルに設定が反映される
+
+git commit -- amend　練習
