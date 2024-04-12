@@ -5,3 +5,4 @@ git configとは設定を変更するコマンド
 git config --global をつけると～/.gitconfigと~/.config/git/configファイルに設定が反映される
 
 git commit -- amend　練習
+git commit --amend
